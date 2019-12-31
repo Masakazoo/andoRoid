@@ -1,0 +1,8 @@
+---
+title: "posts"
+author: "ando_roid"
+date: "2019/12/31"
+output: html_document
+---
+
+僕のqiitaとはてなブログはこちらから

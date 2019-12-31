@@ -19,7 +19,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir = "docs"
 
 [author]
-  name = "John Doe"
+  name = "Masakazu Ando"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -41,7 +41,7 @@ publishDir = "docs"
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "A minimal and fast theme for Hugo."
+  homeSubtitle = "Psychology/Statistics(R)/Undergrad at Senshu Univ."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -62,15 +62,15 @@ publishDir = "docs"
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/"
+    url = "https://twitter.com/hirahira2835"
 
   [[params.social]]
     name = "instagram"
-    url = "https://instagram.com/"
+    url = "https://www.instagram.com/ando_roid17/?hl=ja"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/Masakazoo"
 
 [menu]
 
