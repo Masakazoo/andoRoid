@@ -40,7 +40,7 @@ publishDir = "docs"
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Psychology/Statistics(R)/Undergrad at Senshu Univ."
+  homeSubtitle = "Psychology/Statistics(R)"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
