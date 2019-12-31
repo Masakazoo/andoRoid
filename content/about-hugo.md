@@ -1,17 +1,13 @@
 ---
-date: "2014-04-09"
-title: About Hugo
+date: "2019-12-31"
+title: ando_Roid(Masakazu Ando)
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+ando_Roid is a Graduate student in Japan.  
+Real name is Masakazu Ando(安藤 正和).  
+B4 at Senshu University.
 
-It makes use of a variety of open source projects including:
+## Interest
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+- Psychology
+- Statistics(R)
