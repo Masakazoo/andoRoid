@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://masakazoo.github.io/andoRoid/about-hugo/</loc>
+    <loc>/about-hugo/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masakazoo.github.io/andoRoid/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masakazoo.github.io/andoRoid/index.html</loc>
+    <loc>/index.html</loc>
   </url>
   
   <url>
-    <loc>https://masakazoo.github.io/andoRoid/</loc>
+    <loc>/</loc>
   </url>
   
 </urlset>
