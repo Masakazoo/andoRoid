@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ando_Roid</title>
-    <link>https://masakazoo.github.io/andoRoid/</link>
+    <link>https://masakazoo.github.io/andoRoid/index.html</link>
     <description>Recent content on ando_Roid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
@@ -11,13 +11,13 @@
 	<atom:link href="https://masakazoo.github.io/andoRoid/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>ando_Roid(Masakazu Ando)</title>
+  </channel>
+</rss>Roid(Masakazu Ando)</title>
       <link>https://masakazoo.github.io/andoRoid/about-hugo/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://masakazoo.github.io/andoRoid/about-hugo/</guid>
-      <description>ando_Roid is a Graduate student in Japan. Real name is Masakazu Ando(安藤 正和). M1 at Senshu Graduate School of the Humanities. Majoring in Psychology. Interest Psychology Statistics(R) Causal inference bayesian modeling(stan)</description>
+      <description>ando_Roid is a Graduate student in Japan. Real name is Masakazu Ando(安藤 正和). M2 at Senshu Graduate School of the Humanities. Majoring in Psychology. Interest Psychology Statistics(R) Causal inference bayesian modeling(stan)</description>
     </item>
     
     <item>
